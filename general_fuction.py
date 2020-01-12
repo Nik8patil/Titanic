@@ -24,6 +24,7 @@ def basic_exploration(df):
     for i in df_n:
         a = iqr_outlier(df_n[i])
         print(a)
+        # Test
 
 
 
